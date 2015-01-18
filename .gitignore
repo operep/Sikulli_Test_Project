@@ -1,9 +1,5 @@
 logs
-project/project
-project/target
 target
-packer_cache
-puppet/packer_cache
 tmp
 .history
 .target
@@ -22,12 +18,7 @@ dist
 .DS_Store
 random.dat
 .metadata
-.vagrant
-Guardfile
 .env
 *.pyc
 *.iml
-config/prod/rabbitmq/client/
 tests/__pycache__
-config/prod/rabbitmq/server/
-config/prod/rabbitmq/testca/
